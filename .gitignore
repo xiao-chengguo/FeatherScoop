@@ -1,0 +1,22 @@
+# Runtime
+node_modules/
+__pycache__/
+*.pyc
+
+# Sensitive
+cookies.txt
+*_cookies*.txt
+block_files.json
+test_dl.pdf
+
+# Output
+output/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
